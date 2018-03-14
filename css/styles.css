@@ -1,0 +1,36 @@
+body {
+  background-color: #bcd2d0;
+}
+
+.column {
+  background-color: #f96161;
+  float: left;
+  width: 30vh;
+  height:710px;
+  padding: 5px;
+  margin: 5px;
+}
+
+img {
+  display:block;
+  margin: auto;
+  width:28vh;
+}
+
+h1 {
+  font-family: cursive;
+  color: #ae0001;
+  text-align: center;
+}
+
+h3 {
+  font-family: sans-serif;
+  color: #004c4c;
+}
+
+p {
+  font-family: inherit;
+  color: inherit;
+  font-weight: lighter;
+
+}
