@@ -34,3 +34,15 @@ p {
   font-weight: lighter;
 
 }
+
+.redcol {
+  background-color:red;
+}
+
+.bluecol {
+  background-color:blue;
+}
+
+.yelcol {
+  background-color:yellow;
+}
